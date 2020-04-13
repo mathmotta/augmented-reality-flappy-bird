@@ -1,7 +1,7 @@
 # FlappyBirdAR
 
 Read this in English!
-[English Introduction](README-en.md)
+[English Introduction](README.md)
 
 ## Introdução 
 
