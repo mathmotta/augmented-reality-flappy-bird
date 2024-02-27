@@ -9,5 +9,11 @@ EditorBuildSettings:
     path: Assets/FlappyBird/Scenes/mainGame.unity
     guid: 8e13387fcdb11fb469cf436378ddd163
   m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: ae4698d61447f634ab8a2e41686b6aee,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: c984ea80588240b4ba098b3489f9e946,
+      type: 2}
     com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: 9df1424b8f5259948b1c66eabd1b7f63,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 323aae14e5d3bf3419e85755d7f43238,
       type: 2}
